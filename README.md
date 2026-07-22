@@ -1,4 +1,4 @@
-##1)
+
 ## Simple Calculator in Python
 
 ## Description
@@ -49,7 +49,7 @@ Result = 50.0
 ## Author
 ISAK J
 
-##2)
+
 ## Student Grade Calculator
 
 ## Description
@@ -99,7 +99,7 @@ Grade: B
 ## Author
 ISAK J
 
-##3)
+
 # Odd or Even Checker
 
 ## Description
