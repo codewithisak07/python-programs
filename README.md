@@ -1,4 +1,5 @@
-1)# Simple Calculator in Python
+##1)
+## Simple Calculator in Python
 
 ## Description
 This is a simple Python calculator that performs basic arithmetic operations:
@@ -45,9 +46,61 @@ Choose operation:
 Enter choice (1/2/3/4): 3
 Result = 50.0
 ```
+## Author
+ISAK J
 
-2)## Author
-Your Name# Odd or Even Checker
+##2)
+## Student Grade Calculator
+
+## Description
+This Python program calculates the total marks, average marks, and grade of a student based on marks entered for three subjects.
+
+## Features
+- Accepts the student's name.
+- Accepts marks for three subjects.
+- Calculates total and average marks.
+- Assigns a grade based on the average.
+- Displays the student's details and grade.
+
+## Grade Criteria
+- **A** : Average ≥ 90
+- **B** : Average ≥ 75 and < 90
+- **C** : Average ≥ 50 and < 75
+- **Fail** : Average < 50
+
+## Requirements
+- Python 3.x
+
+## How to Run
+1. Save the program as `student_grade_calculator.py`.
+2. Open a terminal or command prompt.
+3. Navigate to the folder containing the file.
+4. Run the program:
+   ```bash
+   python student_grade_calculator.py
+   ```
+5. Enter the student's name and marks for the three subjects.
+6. View the total, average, and grade.
+
+## Example
+
+```
+Enter student name: John
+Enter marks for Subject 1: 85
+Enter marks for Subject 2: 90
+Enter marks for Subject 3: 80
+
+Student Name: John
+Total Marks: 255.0
+Average Marks: 85.0
+Grade: B
+```
+
+## Author
+ISAK J
+
+##3)
+# Odd or Even Checker
 
 ## Description
 This Python program checks whether a number is odd or even.
@@ -65,4 +118,4 @@ If the number is divisible by 2, it prints "Even".
 Otherwise, it prints "Odd".
 
 ## Author
-Your Name
+ISAK J
